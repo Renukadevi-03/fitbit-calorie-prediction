@@ -289,24 +289,14 @@ Fitbit-ML-Project/
 └── requirements.txt
 
 ```
-
+Live Demo
+https://fitbit-calorie-prediction-jrl6dmei7kghjdtqfn2ial.streamlit.app/
 
 
 \---
 
 
 
-\## Future Improvements
-
-
-
-\- Hyperparameter tuning
-
-\- Deep learning models
-
-\- Real-time prediction API
-
-\- Streamlit dashboard deployment
 
 
 
